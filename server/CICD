@@ -1,0 +1,17 @@
+Run actions/checkout@v3
+Syncing repository: nhatlong28/full-stack-application-development-capstone-project
+...
+Run actions/setup-python@v3
+...
+Run Install Dependencies
+...
+Successfully installed Django-6.0.1 Pillow-10.1.0 gunicorn-21.2.0 python-dotenv-1.0.0 requests-2.31.0
+...
+Run cd server
+python manage.py test
+System check identified no issues (0 silenced).
+----------------------------------------------------------------------
+Ran 0 tests in 0.000s
+
+OK
+Job build completed successfully
